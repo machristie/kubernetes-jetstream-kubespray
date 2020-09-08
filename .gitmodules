@@ -1,0 +1,4 @@
+[submodule "jetstream_kubespray"]
+	path = jetstream_kubespray
+	url = https://github.com/zonca/jetstream_kubespray
+	branch = branch_v2.13.1
